@@ -70,5 +70,6 @@ First version, feel free to suggest edits and additions.
 &#x2610;	Limited to this project<br/>
 &#x2610;	Re-useable for similar projects<br/>
 &#x2610;	Re-useable as a general-purpose tool<br/>
+&#x2610;	Using existing tools<br/>
 
 Thanks [@peyerluk](http://github.com/peyerluk) and [@tpreusse](http://github.com/tpreusse) for feedback on the first draft
